@@ -1,5 +1,5 @@
 public class MainClass {
-
+	private int test;
 	public static void main(String[] args) {
 
 		ClassLoader classLoader = MainClass.class.getClassLoader();
